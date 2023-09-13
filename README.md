@@ -41,19 +41,23 @@ Windows -> programs-> -> Turn windows features on or off ->  internet informatio
 
 </p>
 <br />
-
+Download and install PHP manager for IIS and Rewrite module
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1149514851564138576/1151589069353128067/Capture.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
+Create a folder named PHP then download PHP 7.3.8 and extract the files to the PHP folder
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://cdn.discordapp.com/attachments/1149514851564138576/1151590493302554746/Capture.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
+Download and install VC_redlistx86.exe
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1149514851564138576/1151591147077115914/Capture.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
+Download and install MySQL-5.5.62-win32.msi and create a password
 <p>
+  <img src="https://cdn.discordapp.com/attachments/1149514851564138576/1151592028283617331/Capture.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+  <img src="https://cdn.discordapp.com/attachments/1149514851564138576/1151592300389081118/Capture.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
