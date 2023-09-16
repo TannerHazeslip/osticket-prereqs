@@ -122,7 +122,10 @@ Delete the C:\inet\wwwroot\osTicket\Setup folder
 <img src="https://cdn.discordapp.com/attachments/1149514851564138576/1152367075713634304/Capture.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Set the permissions of C:\inetpub\osTicket\ost-config.php to "Read" only
-<img src="https://cdn.discordapp.com/attachments/1149514851564138576/1152367075713634304/Capture.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1149514851564138576/1152367366286610493/Capture.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://cdn.discordapp.com/attachments/1149514851564138576/1152367592141500506/Capture.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1149514851564138576/1152657658982178956/Capture.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1149514851564138576/1152657789135618221/Capture.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Browse to the help desk login at http://localhost/osTicket/scp/login.php or to the end user osTicket URL at http://localhost/osTicket/ 
 </p>
 <br />
